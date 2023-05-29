@@ -1,66 +1,59 @@
-<!-- TITLE -->
-# Curso de Bootstrap 4 Ultimate
+<!-- Título -->
+# Aplicação Mobile
 
-***Conteúdo:***
+***Conteúdo da Aula:***
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+* Surgimento a partir da necessidade de mobilidade.
+* Viabilidade graças aos smartphones.
+* Diretamente ligado a popularização dos smartphones e tables.
+* Vantagens:
+  * Mobilidade.
+  * Utilização dos recursos do dispositivo.
+* Desvantagens:
+  * Publicação.
+* Principais tipos de aplicativos:
+  * Jogos.
+  * Redes sociais.
+  * Edução.
+  * Foto e video.
+  * Streaming.
+  * Escritório.
+  * Compras.
+  * Serviços.
+  * Saúde.
+  * GPS.
+  * Financeiros.
+* Arquiteturas:
+  * Armazenamento local.
+  * Armazenamento remoto.
+  * Armazenamento local com sincronia.
+* Principais tecnologias para desenvolvimento mobile:
+  * Nativo:
+    * Android:
+      * Kotlin.
+      * Java.
+    * iOS:
+      * Swift.
+      * Objective-c.
+  * Hibrido:
+    * React Native.
+    * Flutter.
+    * Ionic.
+    * Xamarin.
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Construído com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recursos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUÍDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-boo-ult&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-apl-mob-apl-mob-apl-arq-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-boo-ult?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-boo-ult?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/cur-boo-ult?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cur-boo-ult?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/cur-boo-ult?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-apl-mob-apl-mob-apl-arq-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
